@@ -1,35 +1,35 @@
 # MifareEditorBot
 
-**MifareEditorBot** è un bot Telegram dedicato alla gestione e modifica dei dati delle carte MIFARE.  
-**Attenzione:** il codice sorgente non è reso pubblico.
+**MifareEditorBot** is a Telegram bot dedicated to managing and modifying data from MIFARE cards.  
+**Note:** The source code is not publicly available.
 
 ---
 
-## Informazioni
+## Information
 
-MifareEditorBot consente di:
-- **Leggere i dati** da una tessera codificata MIFARE, come:
+MifareEditorBot allows you to:
+- **Read data** from a coded MIFARE card, such as:
   - 🔢 UID
-  - 💰 Credito attuale
-  - 📅 Data dell'ultima ricarica
-  - 💸 Credito dell'ultima operazione
-  - 📆 Data dell'ultima operazione
-- **Convertire file** tra i formati **.nfc** e **.mct**
-- **Modificare i dati** estratti (modalità whitelist)
+  - 💰 Current Credit
+  - 📅 Last Recharge Date
+  - 💸 Last Operation Credit
+  - 📆 Last Operation Date
+- **Convert files** between **.nfc** and **.mct** formats
+- **Modify the extracted data** (whitelist mode)
 
 ---
 
-## Come utilizzare il bot
+## How to Use the Bot
 
-Per utilizzare il bot, cercalo su Telegram o clicca sul seguente link:  
+To use the bot, search for it on Telegram or click on the following link:  
 [@MifareEditorBot](https://t.me/MifareEditorBot)
 
 ---
 
-## Supporto
+## Support
 
-Per ulteriori informazioni o assistenza, contatta l'autore tramite email o apri un'issue in questo repository.
+For further information or assistance, please contact the author via email or open an issue in this repository.
 
 ---
 
-Questo repository ha lo scopo di segnalare l'esistenza di MifareEditorBot; il codice sorgente non è condiviso.
+This repository serves to announce the existence of MifareEditorBot; the source code is not shared.
