@@ -1,7 +1,6 @@
 # MifareEditorBot
 
 **MifareEditorBot** is a Telegram bot dedicated to managing and modifying data from MIFARE cards.  
-**Note:** The source code is not publicly available.
 
 ---
 
