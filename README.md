@@ -30,5 +30,3 @@ To use the bot, search for it on Telegram or click on the following link:
 For further information or assistance, please contact the author via email or open an issue in this repository.
 
 ---
-
-This repository serves to announce the existence of MifareEditorBot; the source code is not shared.
